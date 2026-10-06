@@ -109,7 +109,15 @@
       "summary": "Mn-ferrite nanoparticles bring photothermal, magnetic and colorimetric responses into one material platform. Their multifunctionality opens routes to paper-based biosensing.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-mn-ferrite.png",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract: Mn-ferrite nanoparticles enable magnetic inductive, colorimetric and laser-induced photothermal readout of paper-based diagnostic tests.",
+      "image_credit": "Pilati et al. · Royal Society of Chemistry, 2026. Author reuse.",
+      "image_rights": "https://www.rsc.org/publishing/journals/processes-and-policies/licences-copyright-and-permissions",
+      "image_source": "Author-supplied graphical abstract for DOI 10.1039/D6TC01874B",
+      "image_width": 520,
+      "image_height": 262
     },
     {
       "title": "Exploring the Complex Interplay of Anisotropies in Magnetosomes of Magnetotactic Bacteria",
