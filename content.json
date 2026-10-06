@@ -33,7 +33,15 @@
       "summary": "Protein-engineered iron nanoclusters combine positive MRI contrast with antifibrotic activity. Tests in a three-dimensional human cardiac tissue model explore a hybrid platform for monitoring and treating fibrosis.",
       "selected": true,
       "pdf": "",
-      "status": "Accepted · In press"
+      "status": "Accepted · In press",
+      "image": "paper-protein-iron.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Protein-Engineered Iron Nanoclusters as Hybrid Theranostic Materials for MRI Monitoring and Treatment of Cardiac Fibrosis",
+      "image_credit": "© Martínez-Parra et al. · Accepted manuscript.",
+      "image_rights": "Author-provided original artwork; author-authorised use on personal scientific website",
+      "image_source": "Author-supplied accepted manuscript, TOC Figure",
+      "image_width": 471,
+      "image_height": 428
     },
     {
       "title": "Extending Field Limits in Nanoscale Magnetic Imaging With Metamaterial‐Inspired Magnetic Flux Concentrators",
@@ -67,7 +75,15 @@
       "summary": "Metamaterial-inspired flux concentrators amplify magnetic fields locally. This extends the operating range of nanoscale magnetic imaging without increasing the field applied by the instrument.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-flux-concentrator.webp",
+      "image_label": "Figure 1",
+      "image_alt": "Figure 1 for Extending Field Limits in Nanoscale Magnetic Imaging With Metamaterial‐Inspired Magnetic Flux Concentrators",
+      "image_credit": "Barrera et al. · Small, 2026 · CC BY 4.0.",
+      "image_rights": "https://creativecommons.org/licenses/by/4.0/",
+      "image_source": "https://www.repository.cam.ac.uk/items/78adaed1-fef8-4631-80e3-02f53e3aeecd",
+      "image_width": 1216,
+      "image_height": 694
     },
     {
       "title": "Mn-ferrite nanoparticles as multifunctional probes for tri-modal photothermal, magnetic, and colorimetric paper-based biosensors",
@@ -122,7 +138,15 @@
       "summary": "Magnetosome behaviour emerges from several competing sources of magnetic anisotropy. Resolving their interplay helps explain how individual crystals and their chain arrangement shape the response of magnetic bacteria.",
       "selected": false,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-anisotropies.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Exploring the Complex Interplay of Anisotropies in Magnetosomes of Magnetotactic Bacteria",
+      "image_credit": "© 2025 American Chemical Society. Author reuse.",
+      "image_rights": "https://pubs.acs.org/page/authors/sharing.htm",
+      "image_source": "Author-supplied published article",
+      "image_width": 979,
+      "image_height": 449
     },
     {
       "title": "Magnetic vector tomography reveals giant magnetofossils are optimised for magnetointensity reception",
@@ -155,7 +179,15 @@
       "summary": "Three-dimensional magnetic vector tomography reveals how giant magnetofossils respond to magnetic-field intensity. Their unusual shapes provide a window into biological magnetic sensing.",
       "selected": false,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-magnetofossil.webp",
+      "image_label": "Figure 1",
+      "image_alt": "Figure 1 for Magnetic vector tomography reveals giant magnetofossils are optimised for magnetointensity reception",
+      "image_credit": "Harrison et al. · Communications Earth & Environment, 2025 · CC BY 4.0.",
+      "image_rights": "https://creativecommons.org/licenses/by/4.0/",
+      "image_source": "Author-supplied published article",
+      "image_width": 1031,
+      "image_height": 1213
     },
     {
       "title": "Micromagnetic structure of oxidized magnetite nanoparticles: sharp structural versus diffuse magnetic interface",
@@ -258,7 +290,15 @@
       "summary": "The magnetochrome protein MamP catalyses ferrous-iron oxidation during magnetite crystal growth. This identifies a molecular step linking biological iron chemistry to magnetic biomineralisation.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-mamp-magnetite.webp",
+      "image_label": "Figure 1",
+      "image_alt": "Figure 1 for Magnetochrome-catalyzed oxidation of ferrous iron by MamP enables magnetite crystal growth in the magnetotactic bacterium AMB-1",
+      "image_credit": "Amor et al. · PNAS, 2024 · CC BY-NC-ND 4.0.",
+      "image_rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "image_source": "Author-supplied published article",
+      "image_width": 1181,
+      "image_height": 594
     },
     {
       "title": "Size-Dependence and High Temperature Stability of Radial Vortex Magnetic Textures Imprinted by Superconductor Stray Fields",
@@ -293,7 +333,15 @@
       "summary": "Superconductor stray fields imprint radial vortex textures in a magnetic layer. The work examines how their size and thermal stability govern the persistence of these unusual magnetic states.",
       "selected": false,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-radial-vortex.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Size-Dependence and High Temperature Stability of Radial Vortex Magnetic Textures Imprinted by Superconductor Stray Fields",
+      "image_credit": "© 2024 American Chemical Society. Author reuse.",
+      "image_rights": "https://pubs.acs.org/page/authors/sharing.htm",
+      "image_source": "Author-supplied published article",
+      "image_width": 1265,
+      "image_height": 559
     },
     {
       "title": "Incorporation of Tb and Gd improves the diagnostic functionality of magnetotactic bacteria",
@@ -352,7 +400,15 @@
       "summary": "Changing bacterial culture conditions tunes the magnetic response of Magnetospirillum magneticum. This provides a biological route to improving magnetic-hyperthermia performance.",
       "selected": false,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-culture-medium.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Tuning the Magnetic Response of Magnetospirillum magneticum by Changing the Culture Medium: A Straightforward Approach to Improve Their Hyperthermia Efficiency",
+      "image_credit": "© 2023 American Chemical Society. Author reuse.",
+      "image_rights": "https://pubs.acs.org/page/authors/sharing.htm",
+      "image_source": "Author-supplied published article",
+      "image_width": 997,
+      "image_height": 502
     },
     {
       "title": "Extremely long-range, high-temperature Josephson coupling across a half-metallic ferromagnet",
@@ -395,7 +451,15 @@
       "summary": "Josephson coupling persists across unexpectedly long distances in a half-metallic ferromagnet. The finding connects magnetic interfaces and superconducting transport in complex oxides.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-josephson.webp",
+      "image_label": "Figure 1",
+      "image_alt": "Figure 1 for Extremely long-range, high-temperature Josephson coupling across a half-metallic ferromagnet",
+      "image_credit": "Sanchez-Manzano et al. · First published in Nature Materials, 2022. Author reuse.",
+      "image_rights": "https://www.nature.com/reprints/permission-requests.html",
+      "image_source": "Author-supplied published article",
+      "image_width": 1057,
+      "image_height": 812
     },
     {
       "title": "Magnetic Anisotropy of Individual Nanomagnets Embedded in Biological Systems Determined by Axi-asymmetric X-ray Transmission Microscopy",
@@ -423,7 +487,15 @@
       "summary": "A magnetic X-ray microscopy method determines the anisotropy of individual nanomagnets inside biological systems. It moves beyond ensemble averages to reveal the behaviour of nanoparticles in their native environment.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-individual-nanomagnets.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Magnetic Anisotropy of Individual Nanomagnets Embedded in Biological Systems Determined by Axi-asymmetric X-ray Transmission Microscopy",
+      "image_credit": "© 2022 American Chemical Society · CC BY-NC-ND 4.0.",
+      "image_rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "image_source": "Author-supplied published article",
+      "image_width": 815,
+      "image_height": 236
     },
     {
       "title": "Modifying the magnetic response of magnetotactic bacteria: incorporation of Gd and Tb ions into the magnetosome structure",
@@ -449,7 +521,15 @@
       "summary": "Gd and Tb can be incorporated into magnetosome structures to modify their magnetic response. The work explores how biological synthesis can be extended through controlled chemical modification.",
       "selected": false,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-gd-bacteria.webp",
+      "image_label": "Cover illustration",
+      "image_alt": "Cover illustration for Modifying the magnetic response of magnetotactic bacteria: incorporation of Gd and Tb ions into the magnetosome structure",
+      "image_credit": "Jefremovas et al. · Royal Society of Chemistry, 2022. Author reuse.",
+      "image_rights": "https://www.rsc.org/publishing/journals/processes-and-policies/licences-copyright-and-permissions",
+      "image_source": "Author-supplied published article, cover showcase",
+      "image_width": 2525,
+      "image_height": 1878
     },
     {
       "title": "Strain tuning of Néel temperature in YCrO3 epitaxial thin films",
@@ -531,7 +611,15 @@
       "summary": "Chemically synthesised magnetite nanoparticles display exceptionally bulk-like magnetic properties. Their strong magnetic-hyperthermia response links crystal quality to energy dissipation.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-bulk-magnetite.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for A Milestone in the Chemical Synthesis of Fe 3 O 4 Nanoparticles: Unreported Bulklike Properties Lead to a Remarkable Magnetic Hyperthermia",
+      "image_credit": "© 2021 American Chemical Society. Author reuse.",
+      "image_rights": "https://pubs.acs.org/page/authors/sharing.htm",
+      "image_source": "Author-supplied published article",
+      "image_width": 999,
+      "image_height": 480
     },
     {
       "title": "Nanoflowers Versus Magnetosomes: Comparison Between Two Promising Candidates for Magnetic Hyperthermia Therapy",
@@ -609,7 +697,15 @@
       "summary": "The study reveals nonreciprocal transport in the Rashba ferromagnet PdCoO₂. It explores how broken symmetries and spin–orbit interactions shape charge transport.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-rashba.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Nonreciprocal Transport in a Rashba Ferromagnet, Delafossite PdCoO2",
+      "image_credit": "© 2021 American Chemical Society. Author reuse.",
+      "image_rights": "https://pubs.acs.org/page/authors/sharing.htm",
+      "image_source": "Author-supplied published article",
+      "image_width": 912,
+      "image_height": 492
     },
     {
       "title": "Shaping Up Zn-Doped Magnetite Nanoparticles from Mono- and Bimetallic Oleates: The Impact of Zn Content, Fe Vacancies, and Morphology on Magnetic Hyperthermia Performance",
@@ -640,7 +736,15 @@
       "summary": "Tailoring Zn content, iron vacancies and particle morphology controls the heating performance of magnetite nanoparticles. The study connects detailed local chemistry with effective magnetic energy conversion.",
       "selected": false,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-zn-magnetite.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Shaping Up Zn-Doped Magnetite Nanoparticles from Mono- and Bimetallic Oleates: The Impact of Zn Content, Fe Vacancies, and Morphology on Magnetic Hyperthermia Performance",
+      "image_credit": "© 2021 American Chemical Society. Author reuse.",
+      "image_rights": "https://pubs.acs.org/page/authors/sharing.htm",
+      "image_source": "Author-supplied published article",
+      "image_width": 996,
+      "image_height": 536
     },
     {
       "title": "Controlled Magnetic Anisotropy in Single Domain Mn-doped Biosynthesized Nanoparticles",
@@ -666,7 +770,15 @@
       "summary": "Mn doping offers control over the magnetic anisotropy of biosynthesised single-domain nanoparticles. The result uses biological crystals as a platform for tuning a fundamental magnetic property.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-mn-magnetosomes.webp",
+      "image_label": "Graphical abstract",
+      "image_alt": "Graphical abstract for Controlled Magnetic Anisotropy in Single Domain Mn-doped Biosynthesized Nanoparticles",
+      "image_credit": "© 2020 American Chemical Society. Author reuse.",
+      "image_rights": "https://pubs.acs.org/page/authors/sharing.htm",
+      "image_source": "https://helmholtz-berlin.de/pubbin/oai_publication?ID=102604&VT=1",
+      "image_width": 584,
+      "image_height": 296
     },
     {
       "title": "Elucidating the role of shape anisotropy in faceted magnetic nanoparticles using biogenic magnetosomes as a model",
@@ -824,7 +936,15 @@
       "summary": "Magnetosome chains form a natural one-dimensional magnetic nanoarchitecture. The study connects the arrangement of individual crystals with the collective magnetic response of the chain.",
       "selected": true,
       "pdf": "",
-      "status": "Published"
+      "status": "Published",
+      "image": "paper-magnetosome-chain.webp",
+      "image_label": "Cover illustration",
+      "image_alt": "Cover illustration for Configuration of the magnetosome chain: a natural magnetic nanoarchitecture",
+      "image_credit": "Orue et al. · Royal Society of Chemistry, 2018. Author reuse.",
+      "image_rights": "https://www.rsc.org/publishing/journals/processes-and-policies/licences-copyright-and-permissions",
+      "image_source": "https://www.helmholtz-berlin.de/pubbin/oai_publication?ID=95912&VT=1",
+      "image_width": 1285,
+      "image_height": 930
     },
     {
       "title": "Magnetic Study of Co-Doped Magnetosome Chains",

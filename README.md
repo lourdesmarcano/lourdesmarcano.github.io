@@ -14,7 +14,7 @@ If a build fails, the last working website stays online. Open **Actions** to see
 
 ### Add a publication
 
-Copy one complete object inside `publications`. Update its title, journal, bibliographic year, authors, DOI and short scientific summary. `selected: true` places it in Selected Publications; `false` leaves it in All Publications. Available illustration themes: `chain`, `crystal`, `light`, `heat`, `protein`, `tomography`, `field`, `scattering`.
+Copy one complete object inside `publications`. Update its title, journal, bibliographic year, authors, DOI and short scientific summary. `selected: true` places it in Selected Publications; `false` leaves it in All Publications. Themes for the Research and Projects illustrations: `chain`, `crystal`, `light`, `heat`, `protein`, `tomography`, `field`, `scattering`.
 
 For an accepted paper without a DOI, keep `doi`, `volume`, `issue` and `pages` empty and use `status: "Accepted · In press"`. Never invent final bibliographic data. Set `kind` to `Article` or `Chapter`.
 
@@ -51,7 +51,9 @@ Open http://localhost:8000/. `_site` contains only public website files; adminis
 
 Bibliography is reconciled by DOI against the supplied CVA and Crossref/publisher records. Definitive volume years are used when available. An accepted Advanced Functional Materials article is explicitly marked in press without invented DOI, volume or pages. Scientific summaries describe the published study, not an unsupported claim about an individual's specific contribution.
 
-The portrait was supplied by Lourdes Marcano for this website. All scientific artwork is original SVG code: **conceptual illustrations, not microscopy, experimental measurements or reproduced publisher figures**. No publisher images or protected article PDFs are hosted. Paper PDFs, where included, are external authorised versions.
+The portrait was supplied by Lourdes Marcano for this website. Research and Projects use original conceptual SVG illustrations. Publication cards use the original graphical abstracts, cover illustrations or article figures, labelled and credited individually. `image_rights` links to the applicable licence or publisher author-reuse policy; `image_source` records provenance. Only the extracted images are hosted; no protected article PDFs are hosted. Paper PDFs, where included, are external authorised versions.
+
+To add an article graphic, place the original image beside `content.json` and add `image` (filename), `image_label` (Graphical abstract, Cover illustration or Figure number), `image_alt`, `image_credit`, `image_rights`, `image_source`, `image_width` and `image_height` to that publication. Check reuse rights first. Images are shown complete, without cropping; visitors can open the full-size original. If no verified image is available, the card remains text-only.
 
 Funding information is based on the CVA and public records from the University of Oviedo, Fundación BBVA and CORDIS. Project periods follow the CVA's actual activity dates; ProteNano-MAG uses its actual end date rather than the originally scheduled end. The PI-only selection excludes grants in which Lourdes was a team member. Funding source links are on the project cards.
 
